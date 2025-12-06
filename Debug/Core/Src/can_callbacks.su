@@ -1,0 +1,1 @@
+../Core/Src/can_callbacks.c:15:6:HAL_CAN_RxFifo0MsgPendingCallback	64	static

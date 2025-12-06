@@ -1,0 +1,5 @@
+../Core/Src/timer.c:22:6:timers_start	8	static
+../Core/Src/timer.c:28:10:micros	4	static
+../Core/Src/timer.c:33:10:micros64	48	static,ignoring_inline_asm
+../Core/Src/timer.c:44:6:timers_ms_tick_handler	4	static
+../Core/Src/timer.c:49:5:timers_poll_housekeeping	24	static,ignoring_inline_asm
